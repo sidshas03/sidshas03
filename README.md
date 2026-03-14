@@ -3,7 +3,7 @@
 Brooklyn, NY  
 Master's in Computer Engineering, New York University
 
-[LinkedIn](https://www.linkedin.com/in/ssiddharthan/) · [Portfolio](https://siddharthanps.info/) · [Kaggle](https://www.kaggle.com/pssiddharthan) · [Cisco Community](https://community.cisco.com/t5/user/viewprofilepage/user-id/1473066) · [Email](mailto:sp8004@nyu.edu)
+[LinkedIn](https://www.linkedin.com/in/ssiddharthan/) · [Portfolio](https://sidshas03.github.io/siddharthanps.github.io/) · [Kaggle](https://www.kaggle.com/pssiddharthan) · [Cisco Community](https://community.cisco.com/t5/user/viewprofilepage/user-id/1473066) · [Email](mailto:sp8004@nyu.edu)
 
 I build reliable systems around data, cloud infrastructure, and internal tooling. My background spans AWS, Terraform, Salesforce automation, analytics reporting, and ML-focused side projects. I tend to do my best work where a messy process needs to become something dependable.
 
